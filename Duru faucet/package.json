@@ -1,0 +1,20 @@
+{
+  "name": "durufaucet",
+  "version": "1.0.0",
+  "description": "this faucet just presents a detailed explanation to each function utilized in deploying a faucet on the ethereum network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faucet",
+    "Durufaucet",
+    "pay",
+    "smartcontract",
+    "blockchain",
+    "Goerli",
+    "testnet"
+  ],
+  "author": "Dr. Duru Confidence",
+  "license": "ISC"
+}
